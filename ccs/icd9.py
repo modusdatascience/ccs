@@ -2,24 +2,7 @@
 import resources
 import os
 import re
-
-def parse_dx_code(code):
-    ''' turns code into proper icd9dx object? see how this is done in clinvoc
-    passes to dict
-    '''
-    if code == '': 
-        print(code)
-    else:
-        return code
-
-def parse_px_code(code):
-    ''' turns code into proper icd9dx object? see how this is done in clinvoc
-    passes to dict
-    '''
-    if code == '': 
-        print(code)
-    else:
-        return code
+from base import parse_dx_code, parse_px_code
 
 
 
