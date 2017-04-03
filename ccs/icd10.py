@@ -5,20 +5,15 @@ import resources
 from base import parse_icd10_code
 
 
-# 
-# def read_csv_file(path, filename):
-#     file_path = path + "/" + filename
-#     df = pd.read_csv(file_path)
-
-    # find all unique tags in 'CCS CATEGORY DESCRIPTION'
-    # then iterate through those to create a set
-
 def get_icd10_codes(filename, level=3): # default is most categories level
     
     file_path = resources.resources + "/" + filename
     df = pd.read_csv(file_path)
-    #TODO: fix this mapper (values are wrong)
-    level_mapper = {'1': df.columns[7], '2': df.columns[3], '3': df.columns[5]}
+
+    '''
+    maps single / multi-ccs values to where they are in the xls
+    '''
+    level_mapper = {'single': df.columns[3], 'multi_2': df.columns[7], 'multi_1': df.columns[5]}
 
     code_column = df.columns[0]
     categories = df[level_mapper[level]].unique()
@@ -35,24 +30,25 @@ def get_icd10_codes(filename, level=3): # default is most categories level
     
     return result
         
-def get_lvl_1_codes(filename, ):
+def get_single_level_codes(filename, ):
     # 18 categories
-    codes = get_icd10_codes(filename, '1')
+    codes = get_icd10_codes(filename, 'single')
     return codes
         
-def get_lvl_2_codes(filename):
+def get_multi_level_1(filename):
     # 136 categories
-    codes = get_icd10_codes(filename, '2')
+    codes = get_icd10_codes(filename, 'multi_1')
     return codes
      
 
-def get_lvl_3_codes(filename):
-    codes = get_icd10_codes(filename, '3')
+def get_multi_level_2(filename):
+    codes = get_icd10_codes(filename, 'multi_2')
     return codes
    
-a = get_lvl_3_codes('ccs_dx_icd10cm_2017.csv')
-b = get_lvl_2_codes('ccs_dx_icd10cm_2017.csv')
-c = get_lvl_1_codes('ccs_dx_icd10cm_2017.csv')
+a = get_single_level_codes('ccs_dx_icd10cm_2017.csv') 
+b = get_multi_level_2('ccs_dx_icd10cm_2017.csv')
+c = get_multi_level_1('ccs_dx_icd10cm_2017.csv')
+
 
 print(len(a.keys()))
 print(len(b.keys()))
