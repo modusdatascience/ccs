@@ -15,7 +15,7 @@ def parse_single_txt_line(line, code_type):
         split = split[1:]
         split[-1] = split[-1].rstrip()
         category = ''.join(['{} '.format(word) for word in split])
-        return {'line_type': 'header', 'category': category} 
+        return {'line_type': 'header', 'category': category.strip()} 
     # skips junk lines within file
     elif re.match('Appendix', line) or re.match("Revised", line) or line == "\n":
         return {'line_type': 'junk'}
@@ -101,7 +101,7 @@ def read_multi_txt_file(filename, code_type):
             if parse == None:
                 pass
             elif parse['line_type'] == 'header':
-                result[parse['header']] = {'codes': set(), 'mapper': parse['mapper']} # need to pass it actual array
+                result[parse['header']] = {'codes': set(), 'mapper': parse['mapper']}
                 last_key = parse['header']
             elif parse['line_type'] == 'code_set': 
                 codes = result[last_key]['codes']
@@ -160,6 +160,7 @@ class ICD9(CCS):
         self.px_single_level_codes = single_level_codes(px_multilevel_file, 'px')
         self.dx_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'dx')
         self.px_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'px')
-        
 
 
+if __name__ == '__main__':
+    pass

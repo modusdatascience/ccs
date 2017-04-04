@@ -2,16 +2,8 @@ import pandas as pd
 import resources
 from base import parse_icd10_code, CCS
 
-'''
-The ICD10 codes come from csv files. 
 
-The ICD10 single level codes contain 'external cause codes', i.e. 2615 E Codes: Suffocation | 2616 E Codes: Adverse effects of medical care. 
-These aren't being filtered currently. 
-
-'''
-
-
-def get_icd10_codes(filename, level=3): # default is most categories level
+def get_icd10_codes(filename, level='single'):
     
     file_path = resources.resources + "/" + filename
     df = pd.read_csv(file_path)
@@ -34,12 +26,10 @@ def get_icd10_codes(filename, level=3): # default is most categories level
     return result
         
 def get_single_level_codes(filename):
-    # 18 categories
     codes = get_icd10_codes(filename, 'single')
     return codes
         
 def get_multi_level_1(filename):
-    # 136 categories
     codes = get_icd10_codes(filename, 'multi_1')
     return codes
      
@@ -50,6 +40,10 @@ def get_multi_level_2(filename):
   
  
 class ICD10(CCS):
+    '''
+    Gives methods to access single, level 1, and level 2 categorizations for ICD10 codes (both dx and px). 
+    - The ICD10 single level codes contain 'external cause codes', i.e. 2615 E Codes: Suffocation | These aren't currently being filtered. 
+    '''
     
     def __init__(self):
         dx_csv = 'ccs_dx_icd10cm_2017.csv'
@@ -61,4 +55,8 @@ class ICD10(CCS):
         self.px_single_level_codes = get_single_level_codes(px_csv)
         self.px_level_1_codes = get_multi_level_1(px_csv)
         self.px_level_2_codes = get_multi_level_2(px_csv)
+               
+        
+if __name__ == '__main__':
+    pass
         
