@@ -2,27 +2,24 @@
 import resources
 import os
 import re
-from base import parse_dx_code, parse_px_code
-from itertools import takewhile
+from base import parse_dx_code, parse_px_code, CCS
 
 '''
 Single category parsing
 '''
 
 def parse_single_txt_line(line, code_type):
-
     # looks for header
     if line[0].isdigit():
         split = re.split(r" *", line)
         split = split[1:]
         split[-1] = split[-1].rstrip()
         category = ''.join(['{} '.format(word) for word in split])
-        return ['header', category]
-    
+        return {'line_type': 'header', 'category': category} 
+    # skips junk lines within file
     elif re.match('Appendix', line) or re.match("Revised", line) or line == "\n":
-        print(line)
-        return ['junk']
-    
+        return {'line_type': 'junk'}
+    # looks for codes to associate with a header
     else: 
         split = re.split(r" *", line)
         split = split[1:]
@@ -36,9 +33,8 @@ def parse_single_txt_line(line, code_type):
             code_set.add(clean_code)
             if None in code_set: 
                 code_set.remove(None)
-        return ['code_set', code_set]
+        return {'line_type': 'code_set', 'code_set': code_set}
             
-# change func name to better match icd10 
 def read_single_txt_file(filename, code_type):
     
     result = {}
@@ -46,12 +42,12 @@ def read_single_txt_file(filename, code_type):
         last_key = None
         for line in infile: 
             parse = parse_single_txt_line(line, code_type)
-            if parse[0] == 'header': 
-                result[parse[1]] = set()
-                last_key = parse[1]
-            elif parse[0] == 'code_set':
+            if parse['line_type'] == 'header': 
+                result[parse['category']] = set()
+                last_key = parse['category']
+            elif parse['line_type'] == 'code_set':
                 codes = result[last_key]
-                codes.update(parse[1])
+                codes.update(parse['code_set'])
                 result[last_key] = codes
                 
     return result
@@ -74,11 +70,10 @@ def parse_multi_txt_line(line, code_type='dx'):
         header = filter(lambda x: x.find('['), header)
         header = filter(lambda x: x.find('-'), header)
         header = ' '.join(header)
-        
         return {'line_type': 'header', 'header': header, 'mapper': mapper}
      
     elif any(x in line.rstrip() for x in junk_patterns) or line == '\n':
-        2 + 2
+        pass
         
     else: 
         split = re.split(r" *", line)
@@ -138,7 +133,7 @@ def get_category_level_codes(filename, code_type='dx'):
     codes = read_single_txt_file(filename, code_type)
     return codes 
 
-def get_single_level_codes(filename, code_type='dx'):
+def single_level_codes(filename, code_type='dx'):
     level = 1
     data = read_multi_txt_file(filename, code_type)
     codes = get_codes_by_level(data, level)
@@ -151,30 +146,20 @@ def get_multi_level_codes(filename, code_type='dx'):
     return codes
 
 
-
-
-
-
-test_dx = os.path.join(resources.resources, 'AppendixASingleDX.txt')
-test_px = os.path.join(resources.resources, 'AppendixBSinglePR.txt')
-# a = read_single_txt_file(test_dx, 'dx')
-b = read_single_txt_file(test_px, 'px')
-# print(len(a.keys()))
-print(len(b.keys()))
-
-test_multi_dx = os.path.join(resources.resources, 'AppendixCMultiDX.txt')
-test_multi_px = os.path.join(resources.resources, 'AppendixDMultiPR.txt')
-c = get_single_level_codes(test_multi_dx, 'dx')
-d = get_multi_level_codes(test_multi_dx, 'dx')
-e = get_single_level_codes(test_multi_px, 'px')
-f = get_multi_level_codes(test_multi_px, 'px')
-
-print(len(c.keys()))
-print(len(d.keys()))
-print(len(e.keys()))
-print(len(f.keys()))
-
-
-
+class ICD9(CCS):
+    
+    def __init__(self):
+        dx_category_file = os.path.join(resources.resources, 'AppendixASingleDX.txt')
+        px_category_file = os.path.join(resources.resources, 'AppendixBSinglePR.txt')
+        dx_multilevel_file = os.path.join(resources.resources, 'AppendixCMultiDX.txt')
+        px_multilevel_file = os.path.join(resources.resources, 'AppendixDMultiPR.txt')
+        #
+        self.dx_category_level_codes = get_category_level_codes(dx_category_file, 'dx')
+        self.px_category_level_codes = get_category_level_codes(px_category_file, 'px')
+        self.dx_single_level_codes = single_level_codes(dx_multilevel_file, 'dx')
+        self.px_single_level_codes = single_level_codes(px_multilevel_file, 'px')
+        self.dx_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'dx')
+        self.px_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'px')
+        
 
 

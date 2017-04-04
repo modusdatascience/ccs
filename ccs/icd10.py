@@ -1,8 +1,6 @@
-# from clinvoc.icd10 import ICD10PCS, ICD10CM
-
 import pandas as pd
 import resources
-from base import parse_icd10_code
+from base import parse_icd10_code, CCS
 
 '''
 The ICD10 codes come from csv files. 
@@ -17,8 +15,6 @@ def get_icd10_codes(filename, level=3): # default is most categories level
     
     file_path = resources.resources + "/" + filename
     df = pd.read_csv(file_path)
-
-
     # maps single / multi-ccs values to where they are in the xls
     level_mapper = {'single': df.columns[3], 'multi_2': df.columns[7], 'multi_1': df.columns[5]}
 
@@ -52,23 +48,17 @@ def get_multi_level_2(filename):
     return codes
   
   
-  
-  
-   
-# a = get_single_level_codes('ccs_dx_icd10cm_2017.csv') 
-# b = get_multi_level_2('ccs_dx_icd10cm_2017.csv')
-# c = get_multi_level_1('ccs_dx_icd10cm_2017.csv')
-
-d = get_single_level_codes('ccs_pr_icd10pcs_2017.csv') 
-e = get_multi_level_2('ccs_pr_icd10pcs_2017.csv')
-f = get_multi_level_1('ccs_pr_icd10pcs_2017.csv')
-
-
-# print(len(a.keys()))
-# print(len(b.keys()))
-# print(len(c.keys()))
-print(len(d.keys()))
-print(len(e.keys()))
-print(len(f.keys()))
-
-
+ 
+class ICD10(CCS):
+    
+    def __init__(self):
+        dx_csv = 'ccs_dx_icd10cm_2017.csv'
+        px_csv = 'ccs_pr_icd10pcs_2017.csv'
+        # 
+        self.dx_single_level_codes = get_single_level_codes(dx_csv)
+        self.dx_level_1_codes = get_multi_level_1(dx_csv)
+        self.dx_level_2_codes = get_multi_level_2(dx_csv)
+        self.px_single_level_codes = get_single_level_codes(px_csv)
+        self.px_level_1_codes = get_multi_level_1(px_csv)
+        self.px_level_2_codes = get_multi_level_2(px_csv)
+        
