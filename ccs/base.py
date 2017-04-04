@@ -1,27 +1,27 @@
 
 
 def parse_dx_code(code):
-    ''' turns code into proper icd9dx object? see how this is done in clinvoc
-    passes to dict
-    '''
+    # correctly formats 
     if code == '': 
         print(code)
+    elif len(code) < 4: 
+        print(code)
+        return code
     else:
+        code = code[0:3] + '.' + code[3:]
         return code
 
 def parse_px_code(code):
-    ''' turns code into proper icd9dx object? see how this is done in clinvoc
-    passes to dict
-    '''
-    if code == '': 
+    if code < 3: 
         print(code)
     else:
+        code = code[0:2] + '.' + code[2:]
         return code
 
-
 def parse_icd10_code(code):
-    '''
-    need to apply decimal correctly
-    '''
-    
+    # trim extra quotes 
+    code = code[1:-1]
+    # insert decimal correctly in string
+    code = code[0:3] +'.' + code[3:]
     return code
+
