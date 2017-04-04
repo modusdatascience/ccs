@@ -55,7 +55,8 @@ class ICD10(CCS):
         self.px_single_level_codes = get_single_level_codes(px_csv)
         self.px_level_1_codes = get_multi_level_1(px_csv)
         self.px_level_2_codes = get_multi_level_2(px_csv)
-               
+
+
         
 if __name__ == '__main__':
     pass

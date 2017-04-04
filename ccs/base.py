@@ -19,8 +19,6 @@ def parse_px_code(code):
         print(code)
     else:
         code = code[0:2] + '.' + code[2:]
-        if code == '.': 
-            print('what')
         return code
 
 def parse_icd10_code(code):
