@@ -1,0 +1,11 @@
+'ICD-10-CM CODE','CCS CATEGORY','ICD-10-CM CODE DESCRIPTION','CCS CATEGORY DESCRIPTION','MULTI CCS LVL 1','MULTI CCS LVL 1 LABEL','MULTI CCS LVL 2','MULTI CCS LVL 2 LABEL'
+'A150','1',Tuberculosis of lung,Tuberculosis,'1',Infectious and parasitic diseases,'1.1',Bacterial infection
+'A154','1',Tuberculosis of intrathoracic lymph nodes,Tuberculosis,'1',Infectious and parasitic diseases,'1.1',Bacterial infection
+'A155','1',"Tuberculosis of larynx, trachea and bronchus",Tuberculosis,'1',Infectious and parasitic diseases,'1.1',Bacterial infection
+'A156','1',Tuberculous pleurisy,Tuberculosis,'1',Infectious and parasitic diseases,'1.1',Bacterial infection
+'A157','1',Primary respiratory tuberculosis,Tuberculosis,'1',Infectious and parasitic diseases,'1.1',Bacterial infection
+'G3183','653',Dementia with Lewy bodies,Delirium dementia and amnestic and other cognitive disorders,'5',Mental Illness,'5.4',Delirium dementia and amnestic and other cognitive disorders [653]
+'R4181','653',Age-related cognitive decline,Delirium dementia and amnestic and other cognitive disorders,'5',Mental Illness,'5.4',Delirium dementia and amnestic and other cognitive disorders [653]
+'R54','653',Age-related physical debility,Delirium dementia and amnestic and other cognitive disorders,'5',Mental Illness,'5.4',Delirium dementia and amnestic and other cognitive disorders [653]
+'F70','654',Mild intellectual disabilities,Developmental disorders,'5',Mental Illness,'5.5',Developmental disorders [654]
+'F71','654',Moderate intellectual disabilities,Developmental disorders,'5',Mental Illness,'5.5',Developmental disorders [654]

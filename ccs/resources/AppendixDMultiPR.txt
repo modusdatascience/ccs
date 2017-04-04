@@ -1,0 +1,1838 @@
+Appendix D - Clinical Classification Software - Expanded Procedure Categories (January 1980 through September 2015)
+
+Revised 09/12/13
+
+Multi-level CCS Category and Diagnoses                                                          CCS Code
+
+1         Operations on the nervous system                                                      1 2 3 4 5 6 7 8 9
+                                                                                                 
+
+1.1       Incision and excision of CNS [1.]                                                      
+                                                                                                 
+
+1.1.1     Craniotomy and craniectomy                                                             
+                                                                                                 
+          0121 0122 0123 0124 0125          
+
+1.1.2     Incision of cerebral meninges                                                          
+                                                                                                 
+          0131                  
+
+1.1.3     Other incision and excision of CNS                                                     
+                                                                                                 
+          0101 0109 0126 0127 0128 0132 0139 0141 0142 0151
+          0152 0153 0159              
+
+1.2       Insertion; replacement; or removal of extracranial ventricular shunt [2.]              
+                                                                                                 
+          0231 0232 0233 0234 0235 0239 0242 0243    
+
+1.3       Laminectomy; excision intervertebral disc [3.]                                         
+                                                                                                 
+
+1.3.1     Excision of intervertebral disc                                                        
+                                                                                                 
+          805 8050 8051 8059            
+
+1.3.2     Laminectomy                                                                            
+                                                                                                 
+          0302 0309 8459 8460 8461 8462 8463 8464 8465 8466
+          8467 8468 8469 8480 8481 8482 8483 8484 8485  
+
+1.4       Diagnostic spinal tap [4.]                                                             
+                                                                                                 
+          0331                  
+
+1.5       Insertion of catheter or spinal stimulator and injection into spinal canal [5.]        
+                                                                                                 
+          038 0390 0391 0392 0393 0394        
+
+1.6       Decompression peripheral nerve [6.]                                                    
+                                                                                                 
+
+1.6.1     Release of carpal tunnel                                                               
+                                                                                                 
+          0443                  
+
+1.6.2     Other lysis of adhesion and decompression of peripheral nerves                         
+                                                                                                 
+          0444 0449                
+
+1.7       Other diagnostic nervous system procedures [7.]                                        
+                                                                                                 
+          0111 0112 0113 0114 0115 0118 0119 0332 0339 0411
+          0412 0419 0511 0519            
+
+1.8       Other non-OR or closed therapeutic nervous system procedures [8.]                      
+                                                                                                 
+          0102 0241 0295 0321 0395 0396 0480 0481 0489 0531
+          0532 0539                
+
+1.9       Other OR therapeutic nervous system procedures [9.]                                    
+                                                                                                 
+          0120 0129 016 0201 0202 0203 0204 0205 0206 0207
+          0211 0212 0213 0214 022 0221 0222 0291 0292 0293
+          0294 0296 0299 0301 031 0329 034 0351 0352 0353
+          0359 036 0371 0372 0379 0397 0398 0399 0401 0402
+          0403 0404 0405 0406 0407 042 043 0441 0442 045
+          046 0471 0472 0473 0474 0475 0476 0479 0491 0492
+          0493 0499 050 0521 0522 0523 0524 0525 0529 0581
+          0589 059 1761 8053 8054 8458 8694 8695 8696 8697
+          8698                  
+
+2         Operations on the endocrine system                                                    10 11 12
+                                                                                                 
+
+2.1       Thyroidectomy; partial or complete [10.]                                               
+                                                                                                 
+          062 0631 0639 064 0650 0651 0652 066    
+
+2.2       Diagnostic endocrine procedures [11.]                                                  
+                                                                                                 
+          0611 0612 0613 0619 0700 0701 0702 0711 0712 0713
+          0714 0715 0716 0717 0719 0751 0771 0791    
+
+2.3       Other therapeutic endocrine procedures [12.]                                           
+                                                                                                 
+          0601 0602 0609 067 0681 0689 0691 0692 0693 0694
+          0695 0698 0699 0721 0722 0729 073 0741 0742 0743
+          0744 0745 0749 0752 0753 0754 0759 0761 0762 0763
+          0764 0765 0768 0769 0772 0779 0780 0781 0782 0783
+          0784 0792 0793 0794 0795 0798 0799      
+
+3         Operations on the eye                                                                 13 14 15 16 17 18 19 20 21
+                                                                                                 
+
+3.1       Corneal transplant [13.]                                                               
+                                                                                                 
+          1160 1161 1162 1163 1164 1169        
+
+3.2       Glaucoma procedures [14.]                                                              
+                                                                                                 
+          1251 1252 1253 1254 1255 1259 1261 1262 1263 1264
+          1265 1266 1267 1269 1271 1272 1273 1274 1279  
+
+3.3       Lens and cataract procedures [15.]                                                     
+                                                                                                 
+
+3.3.1     Insertion of prosthetic lens                                                           
+                                                                                                 
+          1370 1371 1372              
+
+3.3.2     Phacoemulsification and aspiration of cataract                                         
+                                                                                                 
+          1341                  
+
+3.3.3     Other extracapsular extraction of lens                                                 
+                                                                                                 
+          1359                  
+
+3.3.4     Other lens and cataract procedures                                                     
+                                                                                                 
+          1311 1319 132 133 1342 1343 1351 1361 1362 1363
+          1364 1365 1366 1369 138 139 1390 1391    
+
+3.4       Repair of retinal tear; detachment [16.]                                               
+                                                                                                 
+          1431 1432 1433 1434 1435 1439 1441 1449 1451 1452
+          1453 1454 1455 1459            
+
+3.5       Destruction of lesion of retina and choroid [17.]                                      
+                                                                                                 
+          1421 1422 1423 1424 1425 1426 1427 1429    
+
+3.6       Diagnostic procedures on eye [18.]                                                     
+                                                                                                 
+          0811 0819 0911 0912 0919 1021 1029 1121 1122 1129
+          1221 1222 1229 1411 1419 1501 1509 1621 1622 1623
+          1629                  
+
+3.7       Other therapeutic procedures on eyelids; conjunctiva; cornea [19.]                     
+                                                                                                 
+          0801 0802 0809 0820 0821 0822 0823 0824 0825 0831
+          0832 0833 0834 0835 0836 0837 0838 0841 0842 0843
+          0844 0849 0851 0852 0859 0861 0862 0863 0864 0869
+          0870 0871 0872 0873 0874 0881 0882 0883 0884 0885
+          0886 0887 0889 0891 0892 0893 0899 090 0920 0921
+          0922 0923 093 0941 0942 0943 0944 0949 0951 0952
+          0953 0959 096 0971 0972 0973 0981 0982 0983 0991
+          0999 100 101 1031 1032 1033 1041 1042 1043 1044
+          1049 105 106 1091 1099 110 111 1131 1132 1139
+          1141 1142 1143 1149 1151 1152 1153 1159 1171 1172
+          1173 1174 1175 1176 1179 1191 1192 1199 9651 9731
+
+3.8       Other intraocular therapeutic procedures [20.]                                         
+                                                                                                 
+          1200 1201 1202 1211 1212 1213 1214 1231 1232 1233
+          1234 1235 1239 1240 1241 1242 1243 1244 1281 1282
+          1283 1284 1285 1286 1287 1288 1289 1291 1292 1293
+          1297 1298 1299 1300 1301 1302 1400 1401 1402 146
+          1471 1472 1473 1474 1475 1479 1481 1482 1483 149
+
+3.9       Other extraocular muscle and orbit therapeutic procedures [21.]                        
+                                                                                                 
+          1511 1512 1513 1519 1521 1522 1529 153 154 155
+          156 157 159 1601 1602 1609 161 1631 1639 1641
+          1642 1649 1651 1652 1659 1661 1662 1663 1664 1665
+          1666 1669 1671 1672 1681 1682 1689 1691 1692 1693
+          1698 1699                
+
+4         Operations on the ear                                                                 22 23 24 25 26
+                                                                                                 
+
+4.1       Tympanoplasty [22.]                                                                    
+                                                                                                 
+          194 1952 1953 1954 1955 196        
+
+4.2       Myringotomy [23.]                                                                      
+                                                                                                 
+          2001 2009                
+
+4.3       Mastoidectomy [24.]                                                                    
+                                                                                                 
+          2041 2042 2049              
+
+4.4       Diagnostic procedures on ear [25.]                                                     
+                                                                                                 
+          1811 1812 1819 2031 2032 2039        
+
+4.5       Other therapeutic ear procedures [26.]                                                 
+                                                                                                 
+          1801 1802 1809 1821 1829 1831 1839 184 185 186
+          1871 1872 1879 189 190 1911 1919 1921 1929 193
+          199 201 2021 2022 2023 2051 2059 2061 2062 2071
+          2072 2079 208 2091 2092 2093 2094 2095 2096 2097
+          2098 2099 9611 9652            
+
+5         Operations on the nose; mouth; and pharynx                                            27 28 29 30 31 32 33
+                                                                                                 
+
+5.1       Control of epistaxis [27.]                                                             
+                                                                                                 
+          2100 2101 2102 2103 2104 2105 2106 2107 2109  
+
+5.2       Plastic procedures on nose [28.]                                                       
+                                                                                                 
+          215 2181 2182 2183 2184 2185 2186 2187 2188 2189
+
+5.3       Dental procedures [29.]                                                                
+                                                                                                 
+          2301 2309 2311 2319 232 233 2341 2342 2343 2349
+          235 236 2370 2371 2372 2373 244 245 246 247
+          248 2491 2499 9654 9722 9733 9734 9735 9997  
+
+5.4       Tonsillectomy and/or adenoidectomy [30.]                                               
+                                                                                                 
+
+5.4.1     Tonsillectomy without adenoidectomy                                                    
+                                                                                                 
+          282                  
+
+5.4.2     Tonsillectomy with adenoidectomy                                                       
+                                                                                                 
+          283                  
+
+5.4.3     Adenoidectomy without tonsillectomy                                                    
+                                                                                                 
+          286                  
+
+5.4.4     Control of hemorrhage after tonsillectomy or adenoidectomy                             
+                                                                                                 
+          287                  
+
+5.5       Diagnostic procedures on nose; mouth and pharynx [31.]                                 
+                                                                                                 
+
+5.5.1     Diagnostic procedures on nasal sinuses                                                 
+                                                                                                 
+          2211 2212 2219              
+
+5.5.2     Other diagnostic procedures on nose; mouth and pharynx                                 
+                                                                                                 
+          2121 2122 2129 2411 2412 2419 2501 2502 2509 2611
+          2612 2619 2721 2722 2723 2724 2729 2811 2819 2911
+          2912 2919                
+
+5.6       Other non-OR therapeutic procedures on nose; mouth and pharynx [32.]                   
+                                                                                                 
+
+5.6.1     Non-OR procedures on nasal sinuses                                                     
+                                                                                                 
+          2200 2201 2202 222            
+
+5.6.2     Other non-OR procedures on nasal sinuses                                               
+                                                                                                 
+          211 2130 2131 2132 2171 2191 240 2431 2432 2439
+          2551 2591 2592 2593 260 2691 2741 2751 2752 2791
+          2991 9621 9653 9721 9732          
+
+5.7       Other OR therapeutic procedures on nose; mouth and pharynx [33.]                       
+                                                                                                 
+
+5.7.1     OR procedures on nasal sinuses                                                         
+                                                                                                 
+          2231 2239 2241 2242 2250 2251 2252 2253 2260 2261
+          2262 2263 2264 2271 2279          
+
+5.7.2     Excision salivary gland                                                                
+                                                                                                 
+          2630 2631 2632              
+
+5.7.3     Repair cleft lip                                                                       
+                                                                                                 
+          2754                  
+
+5.7.4     Correction cleft palate                                                                
+                                                                                                 
+          2762                  
+
+5.7.5     Incision and drainage of tonsils                                                       
+                                                                                                 
+          280                  
+
+5.7.6     Other procedures on nose; mouth and pharynx                                            
+                                                                                                 
+          214 2161 2162 2169 2172 2199 229 242 251 252
+          253 254 2559 2594 2599 2621 2629 2641 2642 2649
+          2699 270 271 2731 2732 2742 2743 2749 2753 2755
+          2756 2757 2759 2761 2763 2764 2769 2771 2772 2773
+          2779 2792 2799 284 285 2891 2892 2899 290 292
+          293 2931 2932 2933 2939 294 2951 2952 2953 2954
+          2959 2992 2999              
+
+6         Operations on the respiratory system                                                  34 35 36 37 38 39 40 41 42
+                                                                                                 
+
+6.1       Tracheostomy; temporary and permanent [34.]                                            
+                                                                                                 
+          311 3121 3129              
+
+6.2       Tracheoscopy and laryngoscopy with biopsy [35.]                                        
+                                                                                                 
+          3142 3143 3144              
+
+6.3       Lobectomy or pneumonectomy [36.]                                                       
+                                                                                                 
+          3220 3221 3222 3223 3224 3225 3226 3227 3229 323
+          3230 3239 324 3241 3249 325 3250 3259    
+
+6.4       Diagnostic bronchoscopy and biopsy of bronchus [37.]                                   
+                                                                                                 
+
+6.4.1     Bronchoscopy without biopsy                                                            
+                                                                                                 
+          3322 3323 3372              
+
+6.4.2     Endoscopic biopsy of bronchus                                                          
+                                                                                                 
+          3324                  
+
+6.4.3     Needle biopsy of lung                                                                  
+                                                                                                 
+          3326                  
+
+6.4.4     Endoscopic biopsy of lung                                                              
+                                                                                                 
+          3327                  
+
+6.5       Other diagnostic procedures on lung and bronchus [38.]                                 
+                                                                                                 
+          3320 3325 3328 3329 3402          
+
+6.6       Incision of pleura; thoracentesis; chest drainage [39.]                                
+                                                                                                 
+
+6.6.1     Closed chest drainage                                                                  
+                                                                                                 
+          3404 3406                
+
+6.6.2     Open chest drainage                                                                    
+                                                                                                 
+          3409                  
+
+6.6.3     Thoracentesis                                                                          
+                                                                                                 
+          3491                  
+
+6.7       Other diagnostic procedures of respiratory tract and mediastinum [40.]                 
+                                                                                                 
+          3141 3145 3148 3149 3321 3420 3421 3422 3423 3424
+          3425 3426 3427 3428 3429          
+
+6.8       Other non-OR therapeutic procedures on respiratory system [41.]                        
+                                                                                                 
+          310 3193 3194 3195 3201 3228 3331 3332 3333 3371
+          3373 3378 3379 3391 3471 3472 3492 9655 9656 9723
+          9737 9741 9742 9743 9749          
+
+6.9       Other OR therapeutic procedures on respiratory system [42.]                            
+                                                                                                 
+          3001 3009 301 3021 3022 3029 303 304 313 315
+          3161 3162 3163 3164 3169 3171 3172 3173 3174 3175
+          3179 3191 3192 3198 3199 320 3209 321 326 329
+          330 331 3334 3339 3341 3342 3343 3348 3349 3392
+          3393 3398 3399 3401 3403 3405 341 343 344 3451
+          3452 3459 346 3473 3474 3479 3481 3482 3483 3484
+          3485 3489 3493 3499            
+
+7         Operations on the cardiovascular system                                               43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63
+                                                                                                 
+
+7.1       Heart valve procedures [43.]                                                           
+                                                                                                 
+          3500 3501 3502 3503 3504 3505 3506 3507 3508 3509
+          3510 3511 3512 3513 3514 3520 3521 3522 3523 3524
+          3525 3526 3527 3528 3596 3597 3599      
+
+7.2       Coronary artery bypass graft (CABG) [44.]                                              
+                                                                                                 
+
+7.2.1     Bypass of one coronary artery                                                          
+                                                                                                 
+          3611                  
+
+7.2.2     Bypass of two coronary arteries                                                        
+                                                                                                 
+          3612                  
+
+7.2.3     Bypass of three coronary arteries                                                      
+                                                                                                 
+          3613                  
+
+7.2.4     Bypass of four coronary arteries                                                       
+                                                                                                 
+          3614                  
+
+7.2.5     Other bypass of coronary arteries                                                      
+                                                                                                 
+          3610 3615 3616 3617 3619 362 363 3631 3632 3633
+          3634 3639                
+
+7.3       Percutaneous transluminal coronary angioplasty (PTCA) [45.]                            
+                                                                                                 
+
+7.3.1     Single vessel PTCA                                                                     
+                                                                                                 
+          0066 1755 3601 3602            
+
+7.3.2     Multiple vessel PTCA                                                                   
+                                                                                                 
+          3605                  
+
+7.4       Coronary thrombolysis [46.]                                                            
+                                                                                                 
+          3604                  
+
+7.5       Diagnostic cardiac catheterization; coronary arteriography [47.]                       
+                                                                                                 
+
+7.5.1     Coronary arteriography                                                                 
+                                                                                                 
+          8852 8853 8854 8855 8856 8857        
+
+7.5.2     Cardiac catheterization                                                                
+                                                                                                 
+          3721 3722 3723              
+
+7.6       Insertion; revision; replacement; removal of cardiac pacemaker or cardioverter/defibr  
+                                                                                                 
+          0050 0051 0052 0053 0054          
+
+7.6.1     Insertion; revision; replacement; or removal of pacemaker leads                        
+                                                                                                 
+          0056 0057 3770 3771 3772 3773 3774 3775 3776 3777
+          3778 3779                
+
+7.6.2     Insertion; revision; replacement; or removal of pacemaker device                       
+                                                                                                 
+          3780 3781 3782 3783 3785 3786 3787 3789    
+
+7.6.3     Insertion; revision; replacement; or removal of cardioverter/defibrillator             
+                                                                                                 
+          1751 1752 3794 3795 3796 3797 3798      
+
+7.7       Other OR heart procedures [49.]                                                        
+                                                                                                 
+          3531 3532 3533 3534 3535 3539 3541 3542 3550 3551
+          3552 3553 3554 3555 3560 3561 3562 3563 3570 3571
+          3572 3573 3581 3582 3583 3584 3591 3592 3593 3594
+          3595 3598 3600 3603 3609 3691 3699 3710 3711 3712
+          3731 3732 3733 3734 3735 3736 3737 374 3741 3749
+          3752 3753 3754 3755 3760 3761 3762 3763 3764 3765
+          3766 3767 3768 3790 3791 3799        
+
+7.8       Extracorporeal circulation auxiliary to open heart procedures [50.]                    
+                                                                                                 
+          3961 3962 3963 3964 3965 3966        
+
+7.9       Endarterectomy; vessel of head and neck [51.]                                          
+                                                                                                 
+          3811 3812                
+
+7.10      Aortic resection; replacement or anastomosis [52.]                                     
+                                                                                                 
+          3834 3844 3864 3971 3973 3978        
+
+7.11      Varicose vein stripping; lower limb [53.]                                              
+                                                                                                 
+          3859                  
+
+7.12      Other vascular catheterization; not heart [54.]                                        
+                                                                                                 
+
+7.12.1    Arterial catheterization                                                               
+                                                                                                 
+          3891                  
+
+7.12.2    Umbilical vein catheterization                                                         
+                                                                                                 
+          3892                  
+
+7.12.3    Venous catheterization                                                                 
+                                                                                                 
+          3893 3897                
+
+7.13      Peripheral vascular bypass [55.]                                                       
+                                                                                                 
+          3925 3929                
+
+7.14      Other vascular bypass and shunt; not heart [56.]                                       
+                                                                                                 
+          390 391 3921 3922 3923 3924 3926 3928    
+
+7.15      Creation; revision and removal of arteriovenous fistula or vessel-to-vessel cannula f  
+                                                                                                 
+          3927 3942 3943 3993            
+
+7.16      Hemodialysis [58.]                                                                     
+                                                                                                 
+          3995                  
+
+7.17      Other OR procedures on vessels of head and neck [59.]                                  
+                                                                                                 
+          0061 0062 0063 0064 0065 1753 1754 3801 3802 3831
+          3832 3841 3842 3851 3852 3861 3862 3881 3882 3972
+          3974 3975 3976 3981 3982 3983 3984 3985 3986 3987
+          3988 3989                
+
+7.18      Embolectomy and endarterectomy of lower limbs [60.]                                    
+                                                                                                 
+          3808 3818                
+
+7.19      Other OR procedures on vessels other than head and neck [61.]                          
+                                                                                                 
+          0055 1756 3950 3977 3979 6824 6825      
+
+7.19.1    Interrupt vena cava                                                                    
+                                                                                                 
+          387                  
+
+7.19.2    Other OR procedures on blood vessels                                                   
+                                                                                                 
+          0040 0041 0042 0043 0044 0045 0046 0047 0048 1771
+          3800 3803 3804 3805 3806 3807 3809 3810 3813 3814
+          3815 3816 3830 3833 3835 3836 3837 3838 3839 3840
+          3843 3845 3846 3847 3848 3849 3850 3853 3855 3857
+          3860 3863 3865 3866 3867 3868 3869 3880 3883 3884
+          3885 3886 3887 3888 3889 3930 3931 3932 3941 3949
+          3951 3952 3953 3954 3955 3956 3957 3958 3959 397
+          398 3990 3991 3992 3994 3998 3999      
+
+7.20      Other diagnostic cardiovascular procedures [62.]                                       
+                                                                                                 
+          3720 3724 3725 3726 3727 3728 3729 3821 3822 3826
+          3829                  
+
+7.21      Other non-OR therapeutic cardiovascular procedures [63.]                               
+                                                                                                 
+          0049 0060 3606 3607 370 3792 3793 3894 3895 3996
+          3997 9744                
+
+8         Operations on the hemic and lymphatic system                                          64 65 66 67
+                                                                                                 
+
+8.1       Bone marrow transplant [64.]                                                           
+                                                                                                 
+          410 4100 4101 4102 4103 4104 4105 4106 4107 4108
+          4109                  
+
+8.2       Bone marrow biopsy [65.]                                                               
+                                                                                                 
+          4131                  
+
+8.3       Procedures on spleen [66.]                                                             
+                                                                                                 
+          411 412 4141 4142 4143 415 4193 4195 4199  
+
+8.4       Other therapeutic procedures; hemic and lymphatic system [67.]                         
+                                                                                                 
+
+8.4.1     Biopsy of lymphatic structure                                                          
+                                                                                                 
+          4011                  
+
+8.4.2     Simple excision of lymphatic structure                                                 
+                                                                                                 
+          4021 4022 4023 4024 4029          
+
+8.4.3     Regional lymph node excision                                                           
+                                                                                                 
+          403                  
+
+8.4.4     Radical excision lymph nodes                                                           
+                                                                                                 
+          4040 4041 4042 4050 4051 4052 4053 4054 4059  
+
+8.4.5     Other hemic and lymphatic procedures                                                   
+                                                                                                 
+          400 4019 4061 4062 4063 4064 4069 409 4132 4133
+          4138 4139 4191 4192 4198          
+
+9         Operations on the digestive system                                                    68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
+                                                                                                 
+
+9.1       Therapeutic procedures on the esophagus                                                
+                                                                                                 
+
+9.1.1     Injection or ligation of esophageal varices [68.]                                      
+                                                                                                 
+          4291                  
+
+9.1.2     Esophageal dilatation [69.]                                                            
+                                                                                                 
+          4292                  
+
+9.2       Upper gastrointestinal endoscopy; biopsy [70.]                                         
+                                                                                                 
+
+9.2.1     Esophagoscopy                                                                          
+                                                                                                 
+          4223 4224                
+
+9.2.2     Gastroscopy                                                                            
+                                                                                                 
+          4413 4414                
+
+9.2.3     Esophagogastroduodenoscopy (EGD) without biopsy                                        
+                                                                                                 
+          4513                  
+
+9.2.4     Esophagogastroduodenoscopy (EGD) with biopsy                                           
+                                                                                                 
+          4516                  
+
+9.2.5     Endoscopic biopsy small intestine                                                      
+                                                                                                 
+          4514                  
+
+9.3       Gastrostomy; temporary and permanent [71.]                                             
+                                                                                                 
+          431 4311 4319 432 4432          
+
+9.4       Colostomy; temporary and permanent [72.]                                               
+                                                                                                 
+          4610 4611 4612 4613 4614          
+
+9.5       Ileostomy and other enterostomy [73.]                                                  
+                                                                                                 
+          4620 4621 4622 4623 4624 4631 4632 4639    
+
+9.6       Gastrectomy; partial and total [74.]                                                   
+                                                                                                 
+          435 436 437 4381 4382 4389 4391 4399    
+
+9.7       Small bowel resection [75.]                                                            
+                                                                                                 
+          4561 4562 4563              
+
+9.8       Colonoscopy and biopsy [76.]                                                           
+                                                                                                 
+
+9.8.1     Closed endoscopic biopsy of large intestine                                            
+                                                                                                 
+          4525                  
+
+9.8.2     Other endoscopy of large intestine                                                     
+                                                                                                 
+          4523 4524                
+
+9.9       Proctoscopy and anorectal biopsy [77.]                                                 
+                                                                                                 
+          4823 4824 4826 4921 4922 4923        
+
+9.10      Colorectal resection [78.]                                                             
+                                                                                                 
+
+9.10.1    Right hemicolectomy                                                                    
+                                                                                                 
+          1733 4573                
+
+9.10.2    Left hemicolectomy                                                                     
+                                                                                                 
+          1735 4575                
+
+9.10.3    Sigmoidectomy                                                                          
+                                                                                                 
+          1736 4576                
+
+9.10.4    Resection of rectum                                                                    
+                                                                                                 
+          4840 4841 4842 4843 4849 485 4850 4851 4852 4859
+          4861 4862 4863 4864 4865 4866 4869      
+
+9.10.5    Other colorectal resections                                                            
+                                                                                                 
+          1731 1732 1734 1739 4571 4572 4574 4579 458 4581
+          4582 4583                
+
+9.11      Local excision of large intestine lesion (not endoscopic) [79.]                        
+                                                                                                 
+          4541                  
+
+9.12      Appendectomy [80.]                                                                     
+                                                                                                 
+          470 4701 4709 471 4711 4719        
+
+9.13      Hemorrhoid procedures [81.]                                                            
+                                                                                                 
+          4941 4942 4943 4944 4945 4946 4947 4949    
+
+9.14      Endoscopic retrograde cannulation of pancreas (ERCP) [82.]                             
+                                                                                                 
+          5110 5111 5197 5213 5291          
+
+9.15      Biopsy of liver [83.]                                                                  
+                                                                                                 
+          5011 5012 5013              
+
+9.16      Cholecystectomy and common duct exploration [84.]                                      
+                                                                                                 
+
+9.16.1    Open cholecystectomy                                                                   
+                                                                                                 
+          5121 5122                
+
+9.16.2    Laparoscopic cholecystectomy                                                           
+                                                                                                 
+          5123 5124                
+
+9.16.3    Incision of bile duct                                                                  
+                                                                                                 
+          5141 5142 5143 5149 5151 5159        
+
+9.17      Inguinal and femoral hernia repair [85.]                                               
+                                                                                                 
+
+9.17.1    Unilateral repair inguinal hernia                                                      
+                                                                                                 
+          1711 1712 1713 1721 1722 1723 1724 5300 5301 5302
+          5303 5304 5305              
+
+9.17.2    Bilateral repair inguinal hernia                                                       
+                                                                                                 
+          5310 5311 5312 5313 5314 5315 5316 5317    
+
+9.17.3    Femoral hernia repair                                                                  
+                                                                                                 
+          5321 5329 5331 5339            
+
+9.18      Other hernia repair [86.]                                                              
+                                                                                                 
+
+9.18.1    Umbilical hernia repair                                                                
+                                                                                                 
+          5341 5342 5343 5349            
+
+9.18.2    Incisional hernia repair                                                               
+                                                                                                 
+          5351 5361 5362              
+
+9.18.3    Other abdominal wall hernia repair                                                     
+                                                                                                 
+          5359 5363 5369              
+
+9.18.4    Other hernia repair                                                                    
+                                                                                                 
+          537 5371 5372 5375 5380 5381 5382 5383 5384 539
+
+9.19      Laparoscopy [87.]                                                                      
+                                                                                                 
+          5421                  
+
+9.20      Abdominal paracentesis [88.]                                                           
+                                                                                                 
+          5491                  
+
+9.21      Exploratory laparotomy [89.]                                                           
+                                                                                                 
+          5411                  
+
+9.22      Excision; lysis peritoneal adhesions [90.]                                             
+                                                                                                 
+          545 5451 5459              
+
+9.23      Peritoneal dialysis [91.]                                                              
+                                                                                                 
+          5498                  
+
+9.24      Other bowel diagnostic procedures [92.]                                                
+                                                                                                 
+          4411 4412 4415 4419 4511 4512 4515 4519 4521 4522
+          4526 4527 4528 4529 4821 4822 4825 4829 4929  
+
+9.25      Other non-OR upper GI therapeutic procedures [93.]                                     
+                                                                                                 
+          4233 4281 4341 4422 4443 4444 4449 4462 4493 4494
+          9606 9631 9632 9633 9634 9635 9701 9702 9751  
+
+9.26      Other OR upper GI therapeutic procedures [94.]                                         
+                                                                                                 
+          4201 4209 4210 4211 4212 4219 4231 4232 4239 4240
+          4241 4242 4251 4252 4253 4254 4255 4256 4258 4259
+          4261 4262 4263 4264 4265 4266 4268 4269 427 4282
+          4283 4284 4285 4286 4287 4289 4299 430 433 4342
+          4349 4400 4401 4402 4403 442 4421 4429 4431 4438
+          4439 4440 4441 4442 445 4461 4463 4464 4465 4466
+          4467 4468 4469 4491 4492 4495 4496 4497 4498 4499
+
+9.27      Other non-OR lower GI therapeutic procedures [95.]                                     
+                                                                                                 
+          4530 4542 4543 4685 4686 4687 4695 4696 4831 4832
+          4833 4834 4836 4903 4931 9609 9619 9622 9623 9626
+          9629 9637 9638 9639 9703 9704 9752 9753 9993  
+
+9.28      Other OR lower GI therapeutic procedures [96.]                                         
+                                                                                                 
+          4975 4976                
+
+9.28.1    Closure of stoma of large intestine                                                    
+                                                                                                 
+          4652                  
+
+9.28.2    Local excision of rectal lesion                                                        
+                                                                                                 
+          4835                  
+
+9.28.3    Incision of perirectal tissue                                                          
+                                                                                                 
+          4881                  
+
+9.28.4    Incision of perianal abscess                                                           
+                                                                                                 
+          4901                  
+
+9.28.5    Incision/excision of anal fistula                                                      
+                                                                                                 
+          4911 4912                
+
+9.28.6    Other lower GI procedures                                                              
+                                                                                                 
+          4500 4501 4502 4503 4531 4532 4533 4534 4549 4550
+          4551 4552 4590 4591 4592 4593 4594 4595 4601 4602
+          4603 4604 4640 4641 4642 4643 4650 4651 4660 4661
+          4662 4663 4664 4671 4672 4673 4674 4675 4676 4679
+          4680 4681 4682 4691 4692 4693 4694 4699 472 4791
+          4792 4799 480 481 4871 4872 4873 4874 4875 4876
+          4879 4882 4891 4892 4893 4899 4902 4904 493 4939
+          4951 4952 4959 496 4971 4972 4973 4974 4979 4991
+          4992 4993 4994 4995 4999          
+
+9.29      Other gastrointestinal diagnostic procedures [97.]                                     
+                                                                                                 
+          4221 4222 4225 4229 5014 5019 5112 5113 5114 5115
+          5119 5211 5212 5214 5219 5422 5423 5424 5425 5429
+
+9.30      Other non-OR gastrointestinal therapeutic procedures [98.]                             
+                                                                                                 
+          5091 5092 5093 5094 5099 5101 5164 5184 5185 5186
+          5187 5188 5196 5198 5221 5293 5294 5297 5298 5496
+          5497 5499 9608 9624 9627 9628 9636 9641 9642 9643
+          9705 9754 9755 9756 9759 9782 9786      
+
+9.31      Other OR gastrointestinal therapeutic procedures [99.]                                 
+                                                                                                 
+          1763                  
+
+9.31.1    Radical pancreaticoduodenectomy                                                        
+                                                                                                 
+          527                  
+
+9.31.2    Incision abdominal wall                                                                
+                                                                                                 
+          540                  
+
+9.31.3    Excision or destruction of peritoneal tissue                                           
+                                                                                                 
+          544                  
+
+9.31.4    Creation of cutaneoperitoneal fistula                                                  
+                                                                                                 
+          5493                  
+
+9.31.5    Other gastrointestinal therapeutic procedures                                          
+                                                                                                 
+          500 5021 5022 5023 5024 5025 5026 5029 503 504
+          5061 5069 5102 5103 5104 5131 5132 5133 5134 5135
+          5136 5137 5139 5161 5162 5163 5169 5171 5172 5179
+          5181 5182 5183 5189 5191 5192 5193 5194 5195 5199
+          5201 5209 522 5222 523 524 5251 5252 5253 5259
+          526 5292 5295 5296 5299 5412 5419 543 5461 5462
+          5463 5464 5471 5472 5473 5474 5475 5492 5494 5495
+
+10        Operations on the urinary system                                                      100 101 102 103 104 105 106 107 108 109 110 111 112
+                                                                                                 
+
+10.1      Cystoscopy and other transurethral procedures                                          
+                                                                                                 
+
+10.1.1    Endoscopy and endoscopic biopsy of the urinary tract [100.]                            
+                                                                                                 
+          5521 5522 5631 5633 5732 5733 5822 5823    
+
+10.1.2    Transurethral excision; drainage; or removal of urinary obstruction [101.]             
+                                                                                                 
+          560 570 5741 5749            
+
+10.1.3    Ureteral catheterization [102.]                                                        
+                                                                                                 
+          598                  
+
+10.2      Nephrotomy and nephrostomy [103.]                                                      
+                                                                                                 
+          5501 5502 5503 5504 5511 5512        
+
+10.3      Nephrectomy; partial or complete [104.]                                                
+                                                                                                 
+          554 5551 5552 5553 5554          
+
+10.4      Kidney transplant [105.]                                                               
+                                                                                                 
+          5561 5569                
+
+10.5      Genitourinary incontinence procedures [106.]                                           
+                                                                                                 
+          593 594 595 596 5971 5972 5979      
+
+10.6      Extracorporeal lithotripsy; urinary [107.]                                             
+                                                                                                 
+          5995 5996 9851              
+
+10.7      Indwelling catheter [108.]                                                             
+                                                                                                 
+          5794                  
+
+10.8      Procedures on the urethra [109.]                                                       
+                                                                                                 
+          580 581 583 5831 5839 5841 5842 5843 5844 5845
+          5846 5847 5849 585 586 5891 5892 5893 5899  
+
+10.9      Other diagnostic procedures of urinary tract [110.]                                    
+                                                                                                 
+          5523 5524 5529 5632 5634 5635 5639 5731 5734 5739
+          5821 5824 5829 5921 5929          
+
+10.10     Other non-OR therapeutic procedures of urinary tract [111.]                            
+                                                                                                 
+          5592 5593 5594 5595 5596 5691 5711 5717 5792 5795
+          5993 5994 5999 9625 9645 9646 9647 9648 9649 9761
+          9762 9763 9764 9765 9769          
+
+10.11     Other OR therapeutic procedures of urinary tract [112.]                                
+                                                                                                 
+          5531 5532 5533 5534 5535 5539 557 5581 5582 5583
+          5584 5585 5586 5587 5589 5591 5597 5598 5599 561
+          562 5640 5641 5642 5651 5652 5661 5662 5671 5672
+          5673 5674 5675 5679 5681 5682 5683 5684 5685 5686
+          5689 5692 5693 5694 5695 5699 5712 5718 5719 5721
+          5722 5751 5759 576 5771 5779 5781 5782 5783 5784
+          5785 5786 5787 5788 5789 5791 5793 5796 5797 5798
+          5799 5900 5901 5902 5903 5909 5911 5912 5919 5991
+          5992                  
+
+11        Operations on the male genital organs                                                 113 114 115 116 117 118
+                                                                                                 
+
+11.1      Transurethral resection of prostate (TURP) [113.]                                      
+                                                                                                 
+          602 6021 6029 6096 6097          
+
+11.2      Open prostatectomy [114.]                                                              
+                                                                                                 
+          603 604 605 6061 6062 6069        
+
+11.3      Circumcision [115.]                                                                    
+                                                                                                 
+          640                  
+
+11.4      Diagnostic procedures; male genital [116.]                                             
+                                                                                                 
+          6011 6012 6013 6014 6015 6018 6019 6111 6119 6211
+          6212 6219 6301 6309 6411 6419        
+
+11.5      Other non-OR therapeutic procedures; male genital [117.]                               
+                                                                                                 
+          6071 6091 6092 6095 610 613 6141 6191 6291 6292
+          6352 636 6370 6371 6372 6373 6384 6391 6491 6494
+          9994 9995 9996              
+
+11.6      Other OR therapeutic procedures; male genital [118.]                                   
+                                                                                                 
+          6497                  
+
+11.6.1    Unilateral orchiectomy                                                                 
+                                                                                                 
+          623                  
+
+11.6.2    Bilateral orchiectomy                                                                  
+                                                                                                 
+          6241                  
+
+11.6.3    Orchiopexy                                                                             
+                                                                                                 
+          625                  
+
+11.6.4    Insert or replace penile prosthesis                                                    
+                                                                                                 
+          6495                  
+
+11.6.5    Other male genital procedures                                                          
+                                                                                                 
+          600 6072 6073 6079 6081 6082 6093 6094 6099 612
+          6142 6149 6192 6199 620 622 6242 6261 6269 627
+          6299 631 632 633 634 6351 6353 6359 6381 6382
+          6383 6385 6389 6392 6393 6394 6395 6399 642 643
+          6441 6442 6443 6444 6445 6449 645 6492 6493 6496
+          6498 6499                
+
+12        Operations on the female genital organs                                               119 120 121 123 124 125 126 127 128 129 130 131 132
+                                                                                                 
+
+12.1      Oophorectomy; unilateral and bilateral [119.]                                          
+                                                                                                 
+          653 6531 6539 654 6541 6549 6551 6552 6553 6554
+          6561 6562 6563 6564            
+
+12.2      Other operations on ovary [120.]                                                       
+                                                                                                 
+          650 6501 6509 6521 6522 6523 6524 6525 6529 6571
+          6572 6573 6574 6575 6576 6579 658 6581 6589 6591
+          6592 6593 6594 6595 6599          
+
+12.3      Ligation of fallopian tubes [121.]                                                     
+                                                                                                 
+          6621 6622 6629 6631 6632 6639        
+
+12.4      Other operations on fallopian tubes [123.]                                             
+                                                                                                 
+          664 6651 6652 6661 6663 6669 6671 6672 6673 6674
+          6679 668 6691 6692 6693 6694 6695 6696 6697 6699
+
+12.5      Hysterectomy; abdominal and vaginal [124.]                                             
+                                                                                                 
+
+12.5.1    Total abdominal hysterectomy                                                           
+                                                                                                 
+          684 6841 6849 6861 6869          
+
+12.5.2    Vaginal hysterectomy                                                                   
+                                                                                                 
+          685 6851 6859 6871 6879          
+
+12.5.3    Other hysterectomy                                                                     
+                                                                                                 
+          683 6831 6839 686 687 689        
+
+12.6      Other excision of cervix and uterus [125.]                                             
+                                                                                                 
+          672 6731 6732 6733 6739 674 6821 6822 6823 6829
+          6919                  
+
+12.7      Abortion (termination of pregnancy) [126.]                                             
+                                                                                                 
+          6901 6951 7491 750            
+
+12.8      Dilatation and curettage (D&C); aspiration after delivery or abortion [127.]           
+                                                                                                 
+          6902 6952                
+
+12.9      Diagnostic dilatation and curettage (D&C) [128.]                                       
+                                                                                                 
+          6909                  
+
+12.10     Repair of cystocele and rectocele; obliteration of vaginal vault [129.]                
+                                                                                                 
+          7050 7051 7052 7053 7054 7055 708      
+
+12.11     Other diagnostic procedures; female organs [130.]                                      
+                                                                                                 
+          6511 6512 6513 6514 6519 6611 6619 6711 6712 6719
+          6811 6812 6813 6814 6815 6816 6819 7021 7022 7023
+          7024 7029 7111 7119            
+
+12.12     Other non-OR therapeutic procedures; female organs [131.]                              
+                                                                                                 
+          670 6959 696 697 6991 6992 6993 6994 6996 700
+          7011 7121 9614 9615 9616 9617 9618 9644 9724 9725
+          9726 9771 9772 9773 9774 9775        
+
+12.13     Other OR therapeutic procedures; female organs [132.]                                  
+                                                                                                 
+          660 6601 6602 675 6761 6762 6769 680 688 6921
+          6922 6923 6929 693 6941 6942 6949 6995 6997 6998
+          6999 7012 7013 7014 7031 7032 7033 704 7061 7062
+          7063 7064 7071 7072 7073 7074 7075 7076 7077 7078
+          7079 7091 7092 7093 7094 7095 7101 7109 7122 7123
+          7124 7129 713 714 715 7161 7162 7171 7172 7179
+          718 719                
+
+13        Obstetrical procedures                                                                122 133 134 135 136 137 138 139 140 141
+                                                                                                 
+
+13.1      Episiotomy [133.]                                                                      
+                                                                                                 
+          736                  
+
+13.2      Cesarean section [134.]                                                                
+                                                                                                 
+          740 741 742 744 7499          
+
+13.3      Forceps; vacuum; and breech delivery [135.]                                            
+                                                                                                 
+
+13.3.1    Low forceps delivery with episiotomy                                                   
+                                                                                                 
+          721                  
+
+13.3.2    Vacuum extraction with episiotomy                                                      
+                                                                                                 
+          7271                  
+
+13.3.3    Other vacuum extraction                                                                
+                                                                                                 
+          7279                  
+
+13.3.4    Other forceps or breech delivery                                                       
+                                                                                                 
+          720 7221 7229 7231 7239 724 7251 7252 7253 7254
+          726 728 729 733            
+
+13.4      Artificial rupture of membranes to assist delivery [136.]                              
+                                                                                                 
+
+13.4.1    Induction of labor by artificial rupture of membranes                                  
+                                                                                                 
+          7301                  
+
+13.4.2    Other artificial rupture of membranes                                                  
+                                                                                                 
+          7309                  
+
+13.5      Other procedures to assist delivery [137.]                                             
+                                                                                                 
+
+13.5.2    Medical induction of labor                                                             
+                                                                                                 
+          734                  
+
+13.5.3    Other manually assisted labor                                                          
+                                                                                                 
+          7359                  
+
+13.5.4    Other delivery procedures                                                              
+                                                                                                 
+          731 7321 7322 7351 738 7391 7392 7393 7394 7399
+
+13.6      Diagnostic amniocentesis [138.]                                                        
+                                                                                                 
+          751                  
+
+13.7      Fetal monitoring [139.]                                                                
+                                                                                                 
+          7531 7532 7533 7534 7535 7538        
+
+13.8      Repair of current obstetric laceration [140.]                                          
+                                                                                                 
+
+13.8.1    Repair of obstetric laceration of uterus or cervix                                     
+                                                                                                 
+          7550 7551 7552              
+
+13.8.2    Repair of obstetric laceration of bladder or urethra                                   
+                                                                                                 
+          7561                  
+
+13.8.3    Repair of obstetric laceration of rectum or sphincter                                  
+                                                                                                 
+          7562                  
+
+13.8.4    Repair of other obstetric laceration                                                   
+                                                                                                 
+          7569                  
+
+13.9      Other therapeutic obstetrical procedures [141.]                                        
+                                                                                                 
+          6751 6759 752 7536 7537 754 757 758 7591 7592
+          7593 7594 7599              
+
+13.10     Removal of ectopic pregnancy [122.]                                                    
+                                                                                                 
+          6662 6911 743              
+
+14        Operations on the musculoskeletal system                                              142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164
+                                                                                                 
+
+14.1      Partial excision bone [142.]                                                           
+                                                                                                 
+          7601 762 7631 7639 7760 7761 7762 7763 7764 7765
+          7766 7767 7768 7769 7770 7771 7772 7773 7774 7775
+          7776 7777 7778 7779 7780 7781 7782 7783 7784 7785
+          7786 7787 7788 7789            
+
+14.2      Bunionectomy or repair of toe deformities [143.]                                       
+                                                                                                 
+          7751 7752 7753 7754 7756 7757 7758 7759    
+
+14.3      Treatment of fracture or dislocation                                                   
+                                                                                                 
+
+14.3.1    Treatment; facial fracture or dislocation [144.]                                       
+                                                                                                 
+          7670 7671 7672 7673 7674 7675 7676 7677 7678 7679
+          7693 7694 7697 7699            
+
+14.3.2    Treatment; fracture or dislocation of radius and ulna [145.]                           
+                                                                                                 
+          7853 7863 7902 7912 7922 7932 7942 7952 7962 7972
+          7973 7982 7983 7992            
+
+14.3.3    Treatment; fracture or dislocation of hip and femur [146.]                             
+                                                                                                 
+          7855 7865 7905 7915 7925 7935 7945 7955 7965 7975
+          7985 7995                
+
+14.3.4    Treatment; fracture or dislocation of lower extremity (other than hip or femur) [147.  
+                                                                                                 
+          7856 7857 7858 7866 7867 7868 7906 7907 7908 7916
+          7917 7918 7926 7927 7928 7936 7937 7938 7946 7956
+          7966 7967 7968 7976 7977 7978 7986 7987 7988 7996
+          7997 7998                
+
+14.3.5    Other fracture and dislocation procedure [148.]                                        
+                                                                                                 
+          7850 7851 7852 7854 7859 7860 7861 7862 7864 7869
+          7900 7901 7903 7904 7909 7910 7911 7913 7914 7919
+          7920 7921 7923 7924 7929 7930 7931 7933 7934 7939
+          7940 7941 7949 7950 7951 7959 7960 7961 7963 7964
+          7969 7970 7971 7974 7979 7980 7981 7984 7989 7990
+          7991 7993 7994 7999 8494          
+
+14.4      Arthroscopy [149.]                                                                     
+                                                                                                 
+
+14.4.1    Arthroscopy of knee                                                                    
+                                                                                                 
+          8026                  
+
+14.4.2    Other arthroscopy                                                                      
+                                                                                                 
+          8020 8021 8022 8023 8024 8025 8027 8028 8029 8145
+
+14.5      Division of joint capsule; ligament or cartilage [150.]                                
+                                                                                                 
+          8040 8041 8042 8043 8044 8045 8046 8047 8048 8049
+
+14.6      Excision of semilunar cartilage of knee [151.]                                         
+                                                                                                 
+          806                  
+
+14.7      Arthroplasty                                                                           
+                                                                                                 
+
+14.7.1    Arthroplasty knee [152.]                                                               
+                                                                                                 
+          0080 0081 0082 0083 0084 8141 8142 8143 8144 8146
+          8147 8154 8155              
+
+14.7.2    Hip replacement; total and partial [153.]                                              
+                                                                                                 
+          0070 0071 0072 0073 0074 0075 0076 0077 0085 0086
+          0087 8151 8152 8153 8169          
+
+14.7.3    Arthroplasty other than hip or knee [154.]                                             
+                                                                                                 
+          8148 8149 8156 8157 8159 8171 8172 8173 8174 8175
+          8179 8180 8181 8182 8183 8184 8185 8186 8187 8188
+          8197                  
+
+14.8      Arthrocentesis [155.]                                                                  
+                                                                                                 
+          8191                  
+
+14.9      Injections and aspirations of muscles; tendons; bursa; joints and soft tissue [156.]   
+                                                                                                 
+          8292 8293 8294 8295 8296 8394 8395 8396 8397 8398
+
+14.10     Amputation of lower extremity [157.]                                                   
+                                                                                                 
+
+14.10.1   Amputation of toe                                                                      
+                                                                                                 
+          8411                  
+
+14.10.2   Amputation through foot                                                                
+                                                                                                 
+          8412                  
+
+14.10.3   Below knee amputation                                                                  
+                                                                                                 
+          8415                  
+
+14.10.4   Above knee amputation                                                                  
+                                                                                                 
+          8417                  
+
+14.10.5   Other lower extremity amputation                                                       
+                                                                                                 
+          8410 8413 8414 8416 8418 8419        
+
+14.11     Spinal fusion [158.]                                                                   
+                                                                                                 
+          8100 8101 8102 8103 8104 8105 8106 8107 8108 8109
+          8130 8131 8132 8133 8134 8135 8136 8137 8138 8139
+          8161 8162 8163 8164 8451          
+
+14.12     Other diagnostic procedures on musculoskeletal system [159.]                           
+                                                                                                 
+          7611 7619 7740 7741 7742 7743 7744 7745 7746 7747
+          7748 7749 7880 7881 7882 7883 7884 7885 7886 7887
+          7888 7889 8030 8031 8032 8033 8034 8035 8036 8037
+          8038 8039 8321 8329            
+
+14.13     Other therapeutic procedures on muscles and tendons [160.]                             
+                                                                                                 
+
+14.13.1   Rotator cuff repair                                                                    
+                                                                                                 
+          8363                  
+
+14.13.2   Other suture of muscle; tendon and fascia                                              
+                                                                                                 
+          8361 8362 8364 8365            
+
+14.13.3   Other muscle and tendon procedures                                                     
+                                                                                                 
+          8201 8202 8203 8204 8209 8211 8212 8219 8221 8222
+          8229 8231 8232 8233 8234 8235 8236 8239 8241 8242
+          8243 8244 8245 8246 8251 8252 8253 8254 8255 8256
+          8257 8258 8259 8261 8269 8271 8272 8279 8281 8282
+          8283 8284 8285 8286 8289 8291 8299 8301 8302 8303
+          8309 8311 8312 8313 8314 8319 8331 8332 8339 8341
+          8342 8343 8344 8345 8349 835 8371 8372 8373 8374
+          8375 8376 8377 8379 8381 8382 8383 8384 8385 8386
+          8387 8388 8389 8391 8392 8393 8399      
+
+14.14     Other OR therapeutic procedures on bone [161. ]                                        
+                                                                                                 
+          7700 7701 7702 7703 7704 7705 7706 7707 7708 7709
+          7710 7711 7712 7713 7714 7715 7716 7717 7718 7719
+          7720 7721 7722 7723 7724 7725 7726 7727 7728 7729
+          7730 7731 7732 7733 7734 7735 7736 7737 7738 7739
+          7790 7791 7792 7793 7794 7795 7796 7797 7798 7799
+          7800 7801 7802 7803 7804 7805 7806 7807 7808 7809
+          7810 7811 7812 7813 7814 7815 7816 7817 7818 7819
+          7820 7822 7823 7824 7825 7827 7828 7829 7830 7831
+          7832 7833 7834 7835 7837 7838 7839 7840 7841 7842
+          7843 7844 7845 7846 7847 7848 7849 7870 7871 7872
+          7873 7874 7875 7876 7877 7878 7879 7890 7891 7892
+          7893 7894 7895 7896 7897 7898 7899 8165 8166 8471
+          8472 8473                
+
+14.15     Other OR therapeutic procedures on joints [162.]                                       
+                                                                                                 
+          8000 8001 8002 8003 8004 8005 8006 8007 8008 8009
+          8010 8011 8012 8013 8014 8015 8016 8017 8018 8019
+          8052 8070 8071 8072 8073 8074 8075 8076 8077 8078
+          8079 8080 8081 8082 8083 8084 8085 8086 8087 8088
+          8089 8090 8091 8092 8093 8094 8095 8096 8097 8098
+          8099 8111 8112 8113 8114 8115 8116 8117 8118 8120
+          8121 8122 8123 8124 8125 8126 8127 8128 8129 8140
+          8193 8194 8195 8196 8198 8199        
+
+14.16     Other non-OR therapeutic procedures on musculoskeletal system [163.]                   
+                                                                                                 
+          7695 7696 8192 8441 8442 8443 8445 8446 8447 8452
+          8453 8454 8455 8456 8457 9711 9712 9713 9714 9736
+          9788                  
+
+14.17     Other OR therapeutic procedures on musculoskeletal system [164.]                       
+                                                                                                 
+          7609 7641 7642 7643 7644 7645 7646 765 7661 7662
+          7663 7664 7665 7666 7667 7668 7669 7691 7692 8400
+          8401 8402 8403 8404 8405 8406 8407 8408 8409 8421
+          8422 8423 8424 8425 8426 8427 8428 8429 843 8440
+          8444 8448 8491 8492 8493 8499        
+
+15        Operations on the integumentary system                                                165 166 167 168 169 170 171 172 173 174 175
+                                                                                                 
+
+15.1      Procedures on the breast                                                               
+                                                                                                 
+
+15.1.1    Breast biopsy and other diagnostic procedures on breast [165.]                         
+                                                                                                 
+          8511 8512 8519              
+
+15.1.2    Lumpectomy; quadrantectomy of breast [166.]                                            
+                                                                                                 
+          8520 8521 8522 8523            
+
+15.1.3    Mastectomy [167.]                                                                      
+                                                                                                 
+          8541 8542 8543 8544 8545 8546 8547 8548    
+
+15.2      Incision and drainage; skin and subcutaneous tissue [168.]                             
+                                                                                                 
+          8604                  
+
+15.3      Debridement of wound; infection or burn [169.]                                         
+                                                                                                 
+          8622 8628                
+
+15.4      Excision of skin lesion [170.]                                                         
+                                                                                                 
+          863 864                
+
+15.5      Suture of skin and subcutaneous tissue [171.]                                          
+                                                                                                 
+          8651 8659                
+
+15.6      Skin graft [172.]                                                                      
+                                                                                                 
+          8660 8661 8662 8663 8664 8665 8666 8667 8669 8670
+          8671 8672 8673 8674 8675          
+
+15.7      Other diagnostic procedures on skin and subcutaneous tissue [173.]                     
+                                                                                                 
+          8611 8619                
+
+15.8      Other non-OR therapeutic procedures on skin and breast [174.]                          
+                                                                                                 
+
+15.8.1    Aspiration of skin and subcutaneous tissue                                             
+                                                                                                 
+          8601                  
+
+15.8.2    Insertion of totally implantable vascular access device                                
+                                                                                                 
+          8607                  
+
+15.8.3    Debridement of nail                                                                    
+                                                                                                 
+          8627                  
+
+15.8.4    Other skin and breast procedures; non-OR                                               
+                                                                                                 
+          850 8551 8552 8581 8591 8592 8602 8603 8605 8609
+          8623 8624 8626 8692 8699          
+
+15.9      Other OR therapeutic procedures on skin and breast [175.]                              
+                                                                                                 
+
+15.9.1    Bilateral reduction mammoplasty                                                        
+                                                                                                 
+          8532                  
+
+15.9.2    Excision pilonidal cyst or sinus                                                       
+                                                                                                 
+          8621                  
+
+15.9.3    Other skin and breast procedures; OR                                                   
+                                                                                                 
+          8524 8525 8531 8533 8534 8535 8536 8550 8553 8554
+          8555 856 857 8570 8571 8572 8573 8574 8575 8576
+          8579 8582 8583 8584 8585 8586 8587 8589 8593 8594
+          8595 8596 8599 8606 8625 8681 8682 8683 8684 8685
+          8686 8687 8689 8690 8691 8693        
+
+16        Miscellaneous diagnostic and therapeutic procedures                                   176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200
+                                                                                                201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224
+
+16.1      Other organ transplantation [176.]                                                     
+                                                                                                 
+          335 3350 3351 3352 336 375 3751 4194 4697 5051
+          5059 5280 5281 5282 5283 5284 5285 5286    
+
+16.2      Computerized axial tomography (CT) scan                                                
+                                                                                                 
+
+16.2.1    Computerized axial tomography (CT) scan head [177.]                                    
+                                                                                                 
+          8703                  
+
+16.2.2    CT scan chest [178.]                                                                   
+                                                                                                 
+          8741                  
+
+16.2.3    CT scan abdomen [179.]                                                                 
+                                                                                                 
+          8801                  
+
+16.2.4    Other CT scan [180.]                                                                   
+                                                                                                 
+          0031 8771 8838              
+
+16.3      Myelogram [181.]                                                                       
+                                                                                                 
+          8721                  
+
+16.4      Mammography [182.]                                                                     
+                                                                                                 
+          8736 8737                
+
+16.5      Routine chest X-ray [183.]                                                             
+                                                                                                 
+          8744                  
+
+16.6      Intraoperative cholangiogram [184.]                                                    
+                                                                                                 
+          8753                  
+
+16.7      Upper gastrointestinal X-ray [185.]                                                    
+                                                                                                 
+          8761 8762                
+
+16.8      Lower gastrointestinal X-ray [186.]                                                    
+                                                                                                 
+          8764                  
+
+16.9      Intravenous pyelogram [187.]                                                           
+                                                                                                 
+          8773                  
+
+16.10     Cerebral arteriogram [188.]                                                            
+                                                                                                 
+          8841                  
+
+16.11     Contrast aortogram [189.]                                                              
+                                                                                                 
+          8842                  
+
+16.12     Contrast arteriogram of femoral and lower extremity arteries [190.]                    
+                                                                                                 
+          8848                  
+
+16.13     Arterio or venogram (not heart and head) [191.]                                        
+                                                                                                 
+          8840 8843 8844 8845 8846 8847 8849 8850 8851 8858
+          8860 8861 8862 8863 8864 8865 8866 8867 8868  
+
+16.14     Diagnostic ultrasound                                                                  
+                                                                                                 
+
+16.14.1   Diagnostic ultrasound of head and neck [192.]                                          
+                                                                                                 
+          0021 8871                
+
+16.14.2   Diagnostic ultrasound of heart (echocardiogram) [193.]                                 
+                                                                                                 
+          0024 8872                
+
+16.14.3   Diagnostic ultrasound of gastrointestinal tract [194.]                                 
+                                                                                                 
+          8874                  
+
+16.14.4   Diagnostic ultrasound of urinary tract [195.]                                          
+                                                                                                 
+          0025 8875                
+
+16.14.5   Diagnostic ultrasound of abdomen or retroperitoneum [196.]                             
+                                                                                                 
+          8876                  
+
+16.14.6   Other diagnostic ultrasound [197.]                                                     
+                                                                                                 
+          0022 0023 0028 0029 8873 8877 8878 8879    
+
+16.15     Magnetic resonance imaging [198.]                                                      
+                                                                                                 
+          0032 8891 8892 8893 8894 8895 8896 8897 8899  
+
+16.16     Electroencephalogram (EEG) [199.]                                                      
+                                                                                                 
+          8914                  
+
+16.17     Nonoperative urinary system measurements [200.]                                        
+                                                                                                 
+          8929                  
+
+16.18     Cardiac stress tests [201.]                                                            
+                                                                                                 
+          8941 8942 8943 8944            
+
+16.19     Electrocardiogram [202.]                                                               
+                                                                                                 
+          8951 8952                
+
+16.20     Electrographic cardiac monitoring [203.]                                               
+                                                                                                 
+          8954                  
+
+16.21     Swan-Ganz catheterization for monitoring [204.]                                        
+                                                                                                 
+          8964                  
+
+16.22     Arterial blood gases [205.]                                                            
+                                                                                                 
+          8960 8965                
+
+16.23     Microscopic examination (bacterial smear; culture; toxicology) [206.]                  
+                                                                                                 
+          9001 9002 9003 9004 9005 9006 9009 9011 9012 9013
+          9014 9015 9016 9019 9021 9022 9023 9024 9025 9026
+          9029 9031 9032 9033 9034 9035 9036 9039 9041 9042
+          9043 9044 9045 9046 9049 9051 9052 9053 9054 9055
+          9056 9059 9061 9062 9063 9064 9065 9066 9069 9071
+          9072 9073 9074 9075 9076 9079 9081 9082 9083 9084
+          9085 9086 9089 9091 9092 9093 9094 9095 9096 9099
+          9101 9102 9103 9104 9105 9106 9109 9111 9112 9113
+          9114 9115 9116 9119 9121 9122 9123 9124 9125 9126
+          9129 9131 9132 9133 9134 9135 9136 9139 9141 9142
+          9143 9144 9145 9146 9149 9151 9152 9153 9154 9155
+          9156 9159 9161 9162 9163 9164 9165 9166 9169 9171
+          9172 9173 9174 9175 9176 9179 9181 9182 9183 9184
+          9185 9186 9189 9191 9192 9193 9194 9195 9196 9199
+
+16.24     Radioisotope scan                                                                      
+                                                                                                 
+
+16.24.1   Radioisotope bone scan [207.]                                                          
+                                                                                                 
+          9214                  
+
+16.24.2   Radioisotope pulmonary scan [208.]                                                     
+                                                                                                 
+          9215                  
+
+16.24.3   Radioisotope scan and function studies [209.]                                          
+                                                                                                 
+          9201 9202 9203 9204 9205 9209        
+
+16.24.4   Other radioisotope scan [210.]                                                         
+                                                                                                 
+          9211 9212 9213 9216 9217 9218 9219      
+
+16.25     Therapeutic radiology [211.]                                                           
+                                                                                                 
+          9220 9221 9222 9223 9224 9225 9226 9227 9228 9229
+          9241                  
+
+16.26     Physical therapy                                                                       
+                                                                                                 
+
+16.26.1   Diagnostic physical therapy [212.]                                                     
+                                                                                                 
+          9301 9302 9303 9304 9305 9306 9307 9308 9309  
+
+16.26.2   Physical therapy exercises; manipulation; and other procedures [213.]                  
+                                                                                                 
+          9311 9312 9313 9314 9315 9316 9317 9318 9319 9321
+          9322 9323 9324 9325 9326 9327 9328 9329 9331 9332
+          9333 9334 9335 9336 9337 9338 9339      
+
+16.26.3   Traction; splints; and other wound care [214.]                                         
+                                                                                                 
+          9341 9342 9343 9344 9345 9346 9351 9352 9353 9354
+          9355 9356 9357 9358 9359          
+
+16.26.4   Other physical therapy and rehabilitation [215.]                                       
+                                                                                                 
+          9361 9362 9363 9364 9365 9366 9367 9371 9372 9373
+          9374 9375 9376 9377 9378 9381 9382 9383 9384 9385
+          9389                  
+
+16.27     Respiratory intubation and mechanical ventilation [216.]                               
+                                                                                                 
+
+16.27.1   Endotracheal intubation                                                                
+                                                                                                 
+          9604                  
+
+16.27.2   Continuous mechanical ventilation less than 96 hours                                   
+                                                                                                 
+          9671                  
+
+16.27.3   Continuous mechanical ventilation 96 hours or more                                     
+                                                                                                 
+          9672                  
+
+16.27.4   Other respiratory intubation and mechanical ventilation                                
+                                                                                                 
+          9390 9392 9601 9602 9603 9605 9670      
+
+16.28     Other respiratory therapy [217.]                                                       
+                                                                                                 
+
+16.28.1   Respiratory medication administered by nebulizer                                       
+                                                                                                 
+          9394                  
+
+16.28.2   Oxygen therapy                                                                         
+                                                                                                 
+          9396                  
+
+16.28.3   Other respiratory treatments                                                           
+                                                                                                 
+          9391 9399                
+
+16.29     Psychological and psychiatric evaluation and therapy [218.]                            
+                                                                                                 
+
+16.29.1   Psychiatric drug therapy                                                               
+                                                                                                 
+          9421 9422 9423 9424 9425          
+
+16.29.2   Electroconvulsive therapy                                                              
+                                                                                                 
+          9427                  
+
+16.29.3   Individual psychotherapy                                                               
+                                                                                                 
+          9431 9432 9433 9434 9435 9436 9437 9438 9439  
+
+16.29.4   Other psychological and psychiatric evaluation and therapy                             
+                                                                                                 
+          9401 9402 9403 9408 9409 9411 9412 9413 9419 9426
+          9429 9441 9442 9443 9444 9445 9446 9449 9451 9452
+          9453 9454 9455 9459            
+
+16.30     Alcohol and drug rehabilitation/ detoxification [219.]                                 
+                                                                                                 
+
+16.30.1   Alcohol rehabilitation                                                                 
+                                                                                                 
+          9461                  
+
+16.30.2   Alcohol detoxification                                                                 
+                                                                                                 
+          9462                  
+
+16.30.3   Alcohol rehabilitation and detoxification                                              
+                                                                                                 
+          9463                  
+
+16.30.4   Drug rehabilitation                                                                    
+                                                                                                 
+          9464                  
+
+16.30.5   Drug detoxification                                                                    
+                                                                                                 
+          9465                  
+
+16.30.6   Drug rehabilitation and detoxification                                                 
+                                                                                                 
+          9466                  
+
+16.30.7   Alcohol and drug rehabilitation                                                        
+                                                                                                 
+          9467                  
+
+16.30.8   Alcohol and drug detoxification                                                        
+                                                                                                 
+          9468                  
+
+16.30.9   Alcohol and drug rehabilitation and detoxification                                     
+                                                                                                 
+          9469                  
+
+16.31     Ophthalmologic and otologic diagnosis and treatment [220.]                             
+                                                                                                 
+          9501 9502 9503 9504 9505 9506 9507 9509 9511 9512
+          9513 9514 9515 9516 9521 9522 9523 9524 9525 9526
+          9531 9532 9533 9534 9535 9536 9541 9542 9543 9544
+          9545 9546 9547 9548 9549          
+
+16.32     Nasogastric tube [221.]                                                                
+                                                                                                 
+          9607                  
+
+16.33     Blood transfusion [222.]                                                               
+                                                                                                 
+          9900 9901 9902 9903 9904 9905 9906 9907 9908 9909
+
+16.34     Enteral and parenteral nutrition [223.]                                                
+                                                                                                 
+          966 9915                
+
+16.35     Cancer chemotherapy [224.]                                                             
+                                                                                                 
+          0010 0015 1770 9925 9928          
+
+16.36     Conversion of cardiac rhythm [225.]                                                    
+                                                                                                 
+          9960 9961 9962 9963 9964 9969        
+
+16.37     Other diagnostic radiology and related techniques [226.]                               
+                                                                                                 
+          0033 0034 0035 0039 3823 3824 3825 8701 8702 8704
+          8705 8706 8707 8708 8709 8711 8712 8713 8714 8715
+          8716 8717 8722 8723 8724 8729 8731 8732 8733 8734
+          8735 8738 8739 8742 8743 8749 8751 8752 8754 8759
+          8763 8765 8766 8769 8772 8774 8775 8776 8777 8778
+          8779 8781 8782 8783 8784 8785 8789 8791 8792 8793
+          8794 8795 8799 8802 8803 8804 8809 8811 8812 8813
+          8814 8815 8816 8819 8821 8822 8823 8824 8825 8826
+          8827 8828 8829 8831 8832 8833 8834 8835 8836 8837
+          8839 8859 8881 8882 8883 8884 8885 8886 8889 8890
+          8898                  
+
+16.38     Other diagnostic procedures (interview; evaluation; consultation) [227.]               
+                                                                                                 
+          0058 0059 0067 0068 0069 8901 8902 8903 8904 8905
+          8906 8907 8908 8909 8910 8911 8912 8913 8915 8916
+          8917 8918 8919 8921 8922 8923 8924 8925 8926 8931
+          8932 8933 8934 8935 8936 8937 8938 8939 8945 8946
+          8947 8948 8949 8950 8953 8955 8956 8957 8958 8959
+          8961 8962 8963 8966 8967 8968 8969 897 898  
+
+16.39     Prophylactic vaccinations and inoculations [228.]                                      
+                                                                                                 
+          9931 9932 9933 9934 9935 9936 9937 9938 9939 9941
+          9942 9943 9944 9945 9946 9947 9948 9951 9952 9953
+          9954 9955 9956 9957 9958 9959        
+
+16.40     Nonoperative removal of foreign body [229.]                                            
+                                                                                                 
+          9801 9802 9803 9804 9805 9811 9812 9813 9814 9815
+          9816 9817 9818 9819 9820 9821 9822 9823 9824 9825
+          9826 9827 9828 9829            
+
+16.41     Extracorporeal shock wave lithotripsy; other than urinary [230.]                       
+                                                                                                 
+          9852 9859                
+
+16.42     Other therapeutic procedures [231.]                                                    
+                                                                                                 
+          0001 0002 0003 0009 0014 1762 1769 9976 9977  
+
+16.42.1   Inject antibiotic                                                                      
+                                                                                                 
+          1781 9921                
+
+16.42.2   Other phototherapy (newborn)                                                           
+                                                                                                 
+          9983                  
+
+16.42.3   Injection of Thromobolytic Agent (not coronary)                                        
+                                                                                                 
+          9910 9975                
+
+16.42.4   Other therapies                                                                        
+                                                                                                 
+          0011 0012 0013 0016 0017 0018 0019 0091 0092 0093
+          0094 0095 0096 0110 0116 0117 1741 1742 1743 1744
+          1745 1749 3898 3899 923 9230 9231 9232 9233 9239
+          9393 9395 9397 9398 9657 9658 9659 9715 9716 9729
+          9738 9739 9779 9781 9783 9784 9785 9787 9789 9911
+          9912 9913 9914 9916 9917 9918 9919 9920 9922 9923
+          9924 9926 9927 9929 9971 9972 9973 9974 9978 9979
+          9981 9982 9984 9985 9986 9988 9991 9992 9998 9999
