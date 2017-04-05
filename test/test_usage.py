@@ -7,9 +7,9 @@ def test_icd9():
     codesets = ICD9()
     dx_vocab = ICD9CM()
     px_vocab = ICD9PCS()
-    for k, v in codesets.dx_single_level_codes:
+    for k, v in codesets.dx_single_level_codes.items():
         assert isinstance(k, basestring)
-        assert isinstance(v, set) # FIXME: Currently fails because these are lists instead of sets
+        assert isinstance(v, set)
         for code in v:
             assert_equals(code, dx_vocab.standardize(code)) 
     
