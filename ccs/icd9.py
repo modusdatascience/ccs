@@ -7,7 +7,6 @@ from base import parse_dx_code, parse_px_code, CCS
 '''
 Single category parsing
 '''
-
 def parse_single_txt_line(line, code_type):
     # looks for header
     if line[0].isdigit():
@@ -160,8 +159,6 @@ class ICD9(CCS):
         self.px_single_level_codes = single_level_codes(px_multilevel_file, 'px')
         self.dx_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'dx')
         self.px_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'px')
-
-
 
 if __name__ == '__main__':
     pass
