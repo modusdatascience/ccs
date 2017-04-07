@@ -2,5 +2,5 @@ name: ccsdev
 dependencies:
     - python=2.7.12
     - nose
-    - pip: 
+    - pip:
         - git+https://github.com/jcrudy/clinvoc.git@69ac7d8e5a22aac6f591082ff69027088ec51619
