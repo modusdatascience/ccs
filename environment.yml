@@ -2,5 +2,8 @@ name: ccsdev
 dependencies:
     - python=2.7.12
     - nose
+    - pandas=0.19.2
     - pip: 
-        - git+https://github.com/jcrudy/clinvoc.git@69ac7d8e5a22aac6f591082ff69027088ec51619
+        - toolz==0.8.2
+        - pyparsing==2.2.0
+        - git+https://github.com/jcrudy/clinvoc.git@6e490ba3cd8f3e326611d3f223ac0a8434115f43
