@@ -28,9 +28,9 @@ def test_multi_txt_file():
 
 def test_icd10():
     test_file = 'icd10_test.csv'
-    test_single = get_icd10_codes(test_file, 'single')
-    test_multi_1 = get_icd10_codes(test_file, 'multi_1')
-    test_multi_2 = get_icd10_codes(test_file, 'multi_2')
+    test_single = get_icd10_codes(test_file, 'single', 'dx')
+    test_multi_1 = get_icd10_codes(test_file, 'multi_1', 'dx')
+    test_multi_2 = get_icd10_codes(test_file, 'multi_2', 'dx')
     assert_equal(test_single, {'Tuberculosis': set(['A15.0', 'A15.4', 'A15.5', 'A15.6', 'A15.7']), 'Delirium dementia and amnestic and other cognitive disorders': set(['G31.83', 'R41.81', 'R54']), 'Developmental disorders': set(['F70', 'F71'])})
     assert_equal(test_multi_1, {'Infectious and parasitic diseases': set(['A15.0', 'A15.4', 'A15.5', 'A15.6', 'A15.7']), 'Mental Illness': set(['G31.83', 'R41.81', 'R54', 'F70', 'F71'])})
     assert_equal(test_multi_2, {'Bacterial infection': set(['A15.0', 'A15.4', 'A15.5', 'A15.6', 'A15.7']), 'Delirium dementia and amnestic and other cognitive disorders [653]': set(['G31.83', 'R41.81', 'R54']), 'Developmental disorders [654]': set(['F70', 'F71'])})

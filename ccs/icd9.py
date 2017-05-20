@@ -2,12 +2,16 @@
 import resources
 import os
 import re
-from base import parse_dx_code, parse_px_code, CCS
+from base import CCS
+from clinvoc.icd9 import ICD9CM, ICD9PCS
 
 '''
 Single category parsing
 '''
+icd9cm_vocab = ICD9CM(use_decimals=False)
+icd9pcs_vocab = ICD9PCS(use_decimals=False)
 def parse_single_txt_line(line, code_type):
+    vocab = icd9cm_vocab if code_type == 'dx' else icd9pcs_vocab
     # looks for header
     if line[0].isdigit():
         split = re.split(r" *", line)
@@ -25,17 +29,14 @@ def parse_single_txt_line(line, code_type):
         split[-1] = split[-1].rstrip()
         code_set = set()
         for code in split:
-            if code_type == 'dx':
-                clean_code = parse_dx_code(code)
-            elif code_type == 'px':
-                clean_code = parse_px_code(code)
-            code_set.add(clean_code)
-            if None in code_set: 
-                code_set.remove(None)
+            if code.strip():
+                clean_code = vocab.standardize(code)
+                code_set.add(clean_code)
+#             if None in code_set: 
+#                 code_set.remove(None)
         return {'line_type': 'code_set', 'code_set': code_set}
             
 def read_single_txt_file(filename, code_type):
-    
     result = {}
     with open(filename, 'rb') as infile:
         last_key = None
@@ -56,7 +57,7 @@ Multi-category parsing
 '''
 
 def parse_multi_txt_line(line, code_type='dx'):
-
+    vocab = icd9cm_vocab if code_type == 'dx' else icd9pcs_vocab
     junk_patterns = ['Appendix', 'Revised', '\n', 'Multi-level']
     
     if line[0].isdigit():
@@ -80,13 +81,9 @@ def parse_multi_txt_line(line, code_type='dx'):
         split[-1] = split[-1].rstrip()
         code_set = set()
         for code in split:
-            if code_type == 'dx':
-                clean_code = parse_dx_code(code)
-            elif code_type == 'px':
-                clean_code = parse_px_code(code)
-            code_set.add(clean_code)
-            if None in code_set: 
-                code_set.remove(None)
+            if code.strip():
+                clean_code = vocab.standardize(code)
+                code_set.add(clean_code)
         return {'line_type': 'code_set', 'code_set': code_set}
 
 
@@ -158,7 +155,7 @@ class ICD9(CCS):
         self.dx_single_level_codes = single_level_codes(dx_multilevel_file, 'dx')
         self.px_single_level_codes = single_level_codes(px_multilevel_file, 'px')
         self.dx_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'dx')
-        self.px_multilevel_codes = get_multi_level_codes(dx_multilevel_file, 'px')
+        self.px_multilevel_codes = get_multi_level_codes(px_multilevel_file, 'px')
 
 if __name__ == '__main__':
     pass
