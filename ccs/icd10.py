@@ -38,7 +38,7 @@ def _get_icd10_codes(filename, code_type):
     
     result = {}
     for _, row in df.iterrows():
-        key = (row[5].strip(), re.sub('\[\d+\.\]', '', row[7]).strip(), row[3].strip(), vocab.vocab_domain, vocab.vocab_name)
+        key = (re.sub('\[[^\]]*\]', '', row[5]).strip(), re.sub('\[[^\]]*\]', '', row[7]).strip(), re.sub('\[[^\]]*\]', '', row[3]).strip(), vocab.vocab_domain, vocab.vocab_name)
         if key not in result:
             result[key] = set()
         result[key].add(vocab.standardize(row[code_column].strip('\'')))
