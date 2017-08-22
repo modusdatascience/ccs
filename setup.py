@@ -8,5 +8,6 @@ setup(name='ccs',
       url='https://github.com/mattlewissf/ccs',
       package_data={'ccs': ['resources/*']},
       packages=find_packages(),
-      requires=[]
+      requires=[],
+      install_requires=['clinvoc']
      )
