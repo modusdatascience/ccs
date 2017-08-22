@@ -22,9 +22,9 @@ def _get_icd9_codes(filename, code_type):
     
     result = {}
     for _, row in df.iterrows():
-        key = (row[2].strip(), row[4].strip(), re.sub('\[\d+\.\]', '', row[6]).strip(), vocab.vocab_domain, vocab.vocab_name)
-        if not key[2]:
-            key = key[:2] + key[1:2] + key[3:]
+        key = (re.sub('\[[^\]]*\]', '', row[2]).strip(), re.sub('\[[^\]]*\]', '', row[4]).strip(), re.sub('\[[^\]]*\]', '', row[6]).strip(), vocab.vocab_domain, vocab.vocab_name)
+#         if not key[2]:
+#             key = key[:2] + key[1:2] + key[3:]
         if key not in result:
             result[key] = set()
         result[key].add(vocab.standardize(row[code_column].strip('\'')))
