@@ -1,8 +1,7 @@
 # from clinvoc.icd9 import ICD9PCS, ICD9CM
-import resources
+from . import resources
 import os
 import re
-from base import CCS
 from clinvoc.icd9 import ICD9CM, ICD9PCS
 import pandas as pd
 from toolz.dicttoolz import merge

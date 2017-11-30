@@ -1,5 +1,5 @@
 import pandas as pd
-import resources
+from . import resources
 from clinvoc.icd10 import ICD10CM, ICD10PCS
 import os
 from toolz.dicttoolz import merge
