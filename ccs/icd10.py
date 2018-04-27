@@ -1,5 +1,5 @@
 import pandas as pd
-import resources
+from .resources import resources
 from clinvoc.icd10 import ICD10CM, ICD10PCS
 import os
 from toolz.dicttoolz import merge
@@ -11,7 +11,7 @@ icd10pcs_vocab = ICD10PCS(use_decimals=False)
 def _get_icd10_codes(filename, code_type):
     assert code_type in ['dx', 'px']
     vocab = icd10cm_vocab if code_type == 'dx' else icd10pcs_vocab
-    file_path = os.path.join(resources.resources, filename)
+    file_path = os.path.join(resources, filename)
     df = pd.read_csv(file_path)
     code_column = df.columns[0]
     

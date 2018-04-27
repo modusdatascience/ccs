@@ -1,6 +1,6 @@
 name: ccsdev
 dependencies:
-    - python=2.7.12
+    - python=3.6.2
     - nose
     - pandas=0.19.2
     - pip: 
